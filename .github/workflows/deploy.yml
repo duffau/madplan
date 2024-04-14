@@ -25,7 +25,7 @@ jobs:
       - name: Build pages 
         run: |
           make plan.html
-          for fp in $(find . -name .plan.html); do mv ${fp} ${fp%.recipe.html}index.html ; done
+          for fp in $(find . -name .plan.html); do mv ${fp} ${fp%.plan.html}index.html ; done
           make index.html
           mv .index.html index.html
 
