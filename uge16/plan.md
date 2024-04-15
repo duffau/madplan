@@ -1,8 +1,8 @@
 # Uge 16
 
-## Pad Kra-Pao med ris og "Crushed cucumber" 
+## Pad Kra-Pao med ris og "Smashed cucumber" 
 - [Pad Krapao](https://duffau.github.io/recipes/pad-kra-pao/) 
-- ['Crushed cucumber' Salat](https://duffau.github.io/recipes/crushed-cucumber/)
+- ['Smashed cucumber' Salat](https://duffau.github.io/recipes/smashed-cucumber/)
 
 
 ## Choripan med Chimichurri og Avocadosalat
