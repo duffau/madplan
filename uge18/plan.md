@@ -1,4 +1,6 @@
-# Uge 18
+---
+title: Uge 18
+---
 
 ## [Svinekød i Ingefær](https://thewoksoflife.com/ginger-chicken/)
 
