@@ -1,12 +1,7 @@
 # Uge 18
 
-## Svinekød i Ingefær 
-- [Svinekød i Ingefærsauce]()
-- Ris
+## [Svinekød i Ingefær](https://thewoksoflife.com/ginger-chicken/)
 
-## Pasta i Kærnemælkssauce og Mynte
-- 
+## [Pasta i Kærnemælkssauce og Mynte](https://duffau.github.io/recipes/pasta-kærnemælk-mynte-pistacie)
 
-## Linguine alla Puttanesca  
-- Linguine alla Puttanesca
-- Stegt hjertesalat
+## [Butter Chicken](https://duffau.github.io/butter-chicken)
