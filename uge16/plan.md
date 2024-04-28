@@ -1,4 +1,6 @@
-# Uge 16
+---
+title: Uge 16
+---
 
 ## Pad Kra-Pao med ris og "Smashed cucumber" 
 - [Pad Krapao](https://duffau.github.io/recipes/pad-kra-pao/) 
