@@ -6,4 +6,4 @@ title: Uge 18
 
 ## [Pasta i Kærnemælkssauce og Mynte](https://duffau.github.io/recipes/pasta-kærnemælk-mynte-pistacie)
 
-## [Butter Chicken](https://duffau.github.io/butter-chicken)
+## [Butter Chicken](https://duffau.github.io/recipes/butter-chicken)
