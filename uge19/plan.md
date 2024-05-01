@@ -1,0 +1,1 @@
+## [Pasta med Nduja](https://www.seriouseats.com/spicy-nduja-tomato-sauce)
